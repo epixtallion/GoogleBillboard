@@ -12,6 +12,9 @@ public void setup()
       break;
     }
   }
+  for (int i = 2; i<6; i++){
+    String str = e.substring(i+1,)
+  }
 }
 public void draw()
 {
